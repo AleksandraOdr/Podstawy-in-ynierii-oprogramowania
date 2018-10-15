@@ -1,1 +1,1 @@
-# Podstawy-in-ynierii-oprogramowania
+# Podstawy-inzynierii-oprogramowania
